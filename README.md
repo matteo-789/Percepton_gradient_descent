@@ -6,5 +6,5 @@ We are using the diabetes dataset from kaggle, the goal is to predict the probab
 
 ## Activation function
 
-$E=mc^2$
+$1/(1+\exp(-x))$
 

@@ -1,2 +1,10 @@
-# Percepton_gradient_descent
-Linear implementation of a perceptron with sigmoid activation function and feedforward gradient descent training
+# Implementation of perceptron with gradient descent feedforward training
+
+## Dataset
+
+We are using the diabetes dataset from kaggle, the goal is to predict the probability of getting diabete.
+
+## Activation function
+
+$E=mc^2$
+
